@@ -1,0 +1,35 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.7.2
+axios==0.4.0
+captcha==0.5.0
+certifi==2023.11.17
+cffi==1.16.0
+charset-normalizer==3.3.2
+click==8.1.7
+cryptography==42.0.5
+distlib==0.3.8
+Django==4.2.6
+django-debug-toolbar==4.2.0
+django-ranged-response==0.2.0
+django-simple-captcha==0.5.20
+filelock==3.13.1
+future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+idna==3.4
+lxml==4.9.3
+macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pillow==10.1.0
+platformdirs==4.1.0
+pycparser==2.22
+Pygments==2.17.1
+pyperclip==1.8.2
+requests==2.31.0
+rich==13.7.0
+six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sqlparse==0.4.4
+tqdm==4.66.2
+typing_extensions==4.8.0
+urllib3==2.1.0
+vboxapi==1.0
+virtualenv==20.25.0
